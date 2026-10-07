@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Amin Rasooli
 
-##💻 Frontend Developer | Software Engineering Student
+💻 **Frontend Developer | Software Engineering Student**
 
 I'm a Software Engineering student and Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+
 I enjoy turning ideas into functional and visually polished interfaces while focusing on clean code, reusable components, and good user experience.
+
 My main focus is modern frontend development with JavaScript, React.js, Next.js, and Tailwind CSS. I'm continuously improving my programming logic and problem-solving skills by building practical projects and exploring new technologies.
-I'm currently working toward becoming a strong Software Engineer with a deeper understanding of both frontend and full-stack development.
+
+I'm working toward becoming a strong Software Engineer with a deeper understanding of both frontend and full-stack development.
 ---
 
 ## 🚀 Currently
