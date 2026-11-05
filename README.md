@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="240" />
 
@@ -62,15 +63,15 @@ I enjoy solving problems, experimenting with new technologies, and transforming 
 <div align="center">
 
 <a href="https://github.com/aminrasooli2007-svg/library-loan-desk">
-  <img src="https://img.shields.io/badge/📚_Library_Loan_Desk-React_%7C_Tailwind-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📚_Library_Loan_Desk-React_%7C_Tailwind-7C3AED?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/aminrasooli2007-svg/find-your-everyday-tech">
-  <img src="https://img.shields.io/badge/🔎_Find_Your_Everyday_Tech-React_%7C_JavaScript-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔎_Find_Your_Everyday_Tech-React_%7C_JavaScript-2563EB?style=for-the-badge" />
 </a>
 
 <a href="https://hisabchi.vercel.app">
-  <img src="https://img.shields.io/badge/💳_Hisabchi-Live_Project-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💳_Hisabchi-Live_Project-059669?style=for-the-badge" />
 </a>
 
 </div>
@@ -79,23 +80,19 @@ I enjoy solving problems, experimenting with new technologies, and transforming 
 |---|---|---|
 | 📚 Library Loan Desk | Library book borrowing and management system | [GitHub](https://github.com/aminrasooli2007-svg/library-loan-desk) |
 | 🔎 Find Your Everyday Tech | Product search and price sorting application | [GitHub](https://github.com/aminrasooli2007-svg/find-your-everyday-tech) |
-| 💳 Hisabchi | Digital wallet application | [Live Demo](https://hisabchi.vercel.app) |
+| 💳 Hisabchi | Digital wallet application | [Live Demo](https://hisabchi.vercel.app/) |
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<a href="https://github.com/aminrasooli2007-svg">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminrasooli2007-svg&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=aminrasooli2007-svg&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/aminrasooli2007-svg">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
@@ -126,6 +123,10 @@ I enjoy solving problems, experimenting with new technologies, and transforming 
 </div>
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGU/giphy.gif" width="280" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=550&lines=Eat.+Sleep.+Code.+Repeat.+%F0%9F%94%A5;Keep+Building.+Keep+Growing.+%F0%9F%9A%80;The+Best+Is+Yet+To+Come.+%E2%9C%A8" />
 
