@@ -7,13 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=9B7BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React.js+%26+Next.js+Developer;Software+Engineering+Student;Turning+Ideas+Into+Code+%E2%9C%A8" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Full%20Stack-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Full%20Stack-06B6D4?style=for-the-badge" />
 </p>
 
-<a href="https://github.com/aminrasooli2007-svg">
 <img src="https://komarev.com/ghpvc/?username=aminrasooli2007-svg&style=for-the-badge&color=7C3AED" />
-</a>
 
 </div>
 
@@ -64,30 +62,40 @@ I enjoy solving problems, experimenting with new technologies, and transforming 
 <div align="center">
 
 <a href="https://github.com/aminrasooli2007-svg/library-loan-desk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminrasooli2007-svg&repo=library-loan-desk&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/📚_Library_Loan_Desk-React_%7C_Tailwind-7C3AED?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/aminrasooli2007-svg/find-your-everyday-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminrasooli2007-svg&repo=find-your-everyday-tech&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🔎_Find_Your_Everyday_Tech-React_%7C_JavaScript-2563EB?style=for-the-badge" />
 </a>
 
 <a href="https://hisabchi.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Hisabchi-Live_Project-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💳_Hisabchi-Live_Project-059669?style=for-the-badge" />
 </a>
 
 </div>
+
+| Project | Description | Link |
+|---|---|---|
+| 📚 Library Loan Desk | Library book borrowing and management system | [GitHub](https://github.com/aminrasooli2007-svg/library-loan-desk) |
+| 🔎 Find Your Everyday Tech | Product search and price sorting application | [GitHub](https://github.com/aminrasooli2007-svg/find-your-everyday-tech) |
+| 💳 Hisabchi | Digital wallet application | [Live Demo](https://hisabchi.vercel.app) |
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=aminrasooli2007-svg&theme=tokyonight&hide_border=true" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminrasooli2007-svg&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=aminrasooli2007-svg&theme=tokyonight&hide_border=true" />
 
 </div>
 
