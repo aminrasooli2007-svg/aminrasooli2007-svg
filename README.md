@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="240" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" />
 
 # ⚡ Amin Rasooli
 
@@ -82,16 +82,59 @@ I enjoy solving problems, experimenting with new technologies, and transforming 
 | 🔎 Find Your Everyday Tech | Product search and price sorting application | [GitHub](https://github.com/aminrasooli2007-svg/find-your-everyday-tech) |
 | 💳 Hisabchi | Digital wallet application | [Live Demo](https://hisabchi.vercel.app/) |
 
-## 📊 GitHub Analytics
+## 📊 Developer Activity
 
 <div align="center">
 
+### ⚡ My GitHub Journey
+
 <a href="https://github.com/aminrasooli2007-svg">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://img.shields.io/badge/GitHub-aminrasooli2007--svg-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aminrasooli2007-svg?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 💻 My Development Focus
+
+| Area | Current Focus |
+|---|---|
+| ⚛️ Frontend | React.js & Next.js |
+| 🎨 Styling | Tailwind CSS & Responsive UI |
+| 🧠 JavaScript | Problem Solving & Modern JS |
+| 🛠️ Workflow | Git & GitHub |
+| 🚀 Long-term Goal | Full-Stack Development |
+
+### 🏅 Technologies I Work With
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+### 🔗 Explore My GitHub
+
+<div align="center">
+
+<a href="https://github.com/aminrasooli2007-svg?tab=repositories">
+<img src="https://img.shields.io/badge/📂_All_Repositories-View_Projects-4033C3?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/aminrasooli2007-svg">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://img.shields.io/badge/⭐_GitHub_Profile-Visit_Profile-24292F?style=for-the-badge" />
 </a>
 
 </div>
