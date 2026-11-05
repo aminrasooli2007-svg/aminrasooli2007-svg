@@ -1,103 +1,128 @@
  <div align="center">
 
-# 👋 Hi, I'm Amin Rasooli
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="240" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B8AFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Software+Engineering+Student;React.js+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</a>
+# ⚡ Amin Rasooli
 
-**Frontend Developer | Software Engineering Student**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=9B7BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React.js+%26+Next.js+Developer;Software+Engineering+Student;Turning+Ideas+Into+Code+%E2%9C%A8" />
 
 <p>
-  <a href="https://github.com/aminrasooli2007-svg">
-    <img src="https://komarev.com/ghpvc/?username=aminrasooli2007-svg&style=for-the-badge&color=7c3aed" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/aminrasooli2007-svg?style=for-the-badge&color=6366f1&label=Followers" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Full%20Stack-06B6D4?style=for-the-badge" />
 </p>
+
+<a href="https://github.com/aminrasooli2007-svg">
+<img src="https://komarev.com/ghpvc/?username=aminrasooli2007-svg&style=for-the-badge&color=7C3AED" />
+</a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-## 🚀 About Me
+## 🧬 About Me
 
-I'm a Software Engineering student and Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+```javascript
+const amin = {
+  role: "Frontend Developer",
+  education: "Software Engineering Student",
+  languages: ["JavaScript"],
+  technologies: ["React", "Next.js", "Tailwind CSS"],
+  tools: ["Git", "GitHub", "VS Code"],
+  currentlyLearning: ["Advanced React", "Problem Solving"],
+  goal: "Become a Professional Full-Stack Engineer"
+};
+```
 
-I enjoy turning ideas into functional interfaces, writing clean code, and creating smooth user experiences.
+I'm passionate about building modern web applications with clean code, reusable components, and intuitive user experiences.
 
-- 💻 Focused on modern frontend development
-- ⚛️ Working with React.js and Next.js
-- 🧠 Improving JavaScript logic and problem-solving
-- 🎨 Interested in UI design and responsive interfaces
-- 🌱 Continuously learning and building practical projects
-- 🎯 Working toward becoming a strong Full-Stack Software Engineer
+I enjoy solving problems, experimenting with new technologies, and transforming ideas into real-world projects.
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [ExpenseFlow](https://github.com/aminrasooli2007-svg) | Digital expense tracking and management | React, Supabase |
-| [Library Loan Desk](https://github.com/aminrasooli2007-svg/library-loan-desk) | A frontend library loan management application | React, Tailwind CSS |
-| [Hisabchi](https://hisabchi.vercel.app) | Digital wallet application | Web Development |
-
----
-
-## 📊 GitHub Statistics
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 💻 Frontend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 
-<br/>
+### 🔧 Tools & Workflow
 
-<img width="90%" src="https://streak-stats.demolab.com?user=aminrasooli2007-svg&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel&theme=dark" />
 
 </div>
 
----
+## 🚀 What I'm Doing Now
 
-## 🌐 Connect With Me
+- 🔭 Building practical React applications
+- ⚛️ Improving my React.js and Next.js skills
+- 🧠 Training my JavaScript logic and problem-solving
+- 🎨 Exploring modern UI/UX patterns
+- 🌱 Moving toward Full-Stack Development
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aminrasooli2007-svg/library-loan-desk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminrasooli2007-svg&repo=library-loan-desk&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/aminrasooli2007-svg/find-your-everyday-tech">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aminrasooli2007-svg&repo=find-your-everyday-tech&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://hisabchi.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Hisabchi-Live_Project-7C3AED?style=for-the-badge" />
+</a>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aminrasooli2007-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminrasooli2007-svg&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=aminrasooli2007-svg&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amin-rasooli-8325b4408/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://instagram.com/aminrasooli2007">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="mailto:aminrasooli2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
-
----
 
 <div align="center">
 
-### 💜 Let's Build Something Amazing Together!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=550&lines=Eat.+Sleep.+Code.+Repeat.+%F0%9F%94%A5;Keep+Building.+Keep+Growing.+%F0%9F%9A%80;The+Best+Is+Yet+To+Come.+%E2%9C%A8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=9B8AFF&center=true&vCenter=true&width=450&lines=Keep+Learning.;Keep+Building.;Keep+Improving." />
+**Thanks for visiting my profile! 💜**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
