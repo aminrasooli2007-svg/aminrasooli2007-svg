@@ -216,7 +216,7 @@ I'm always interested in connecting with developers, learning from the community
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Eat.+Sleep.+Code.+Repeat.+%F0%9F%94%A5;Keep+Building.+Keep+Growing.+%F0%9F%9A%80;The+Best+Is+Yet+To+Come.+%E2%9C%A8" />
+
 
 **Thanks for visiting my profile! 💜**
 
